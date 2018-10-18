@@ -1,0 +1,17 @@
+.ui.borderless.topmenu.menu.container {
+  box-shadow: none;
+  border: none;
+}
+
+.middle-background {
+  background: url(https://us.coca-cola.com/content/dam/coke2016/home-refresh/2018-fall-football-hp-hero.jpg) no-repeat center center;
+  background-size: cover;
+  color: white;
+  background-position: 0 90px;
+  padding-bottom: 200px;
+}
+
+.footer-background {
+  background-color: #F40000;
+  color: white;
+}
